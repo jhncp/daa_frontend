@@ -44,51 +44,15 @@ body {
     color: white;
 }
 
-.core label{
+.tags label{
     font-family: Poppins;
-    font-size: 14px;
-    color: white;
-}
-
-.coretitle {
-    margin-left: 350px; 
-    margin-bottom: 5px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 500;
-    color: white;
-}
-
-.coretitle1 {
-    margin-left: 220px; 
-    padding: 5px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 500;
-    color: white;
-}
-
-.coretitle2{
-    margin-left: 275px; 
-    padding: 5px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 500;
-    color: white;
-}
-
-.coretitle3{
-    margin-left: 200px; 
-    padding: 5px;
-    font-family: Poppins;
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 16px;
     color: white;
 }
 
 .checkbox-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
 }
 
